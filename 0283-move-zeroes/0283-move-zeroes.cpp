@@ -7,16 +7,14 @@ int j =0 ;
 while(j<n){
     if(nums[i]==0 && nums[j]!=0){
         swap(nums[j] , nums[i]);
-        j++;
         i++;
     }
-    else if(nums[i]!=0 && nums[j]!=0){
+    else if(nums[i]!=0){
         i++;
-        j++;
     }
-    else {
+   
         j++;
-    }
+    
 }
 
         
