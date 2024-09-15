@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubham05116/Problem-Solving/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham05116/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham05116/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham05116/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham05116/Problem-Solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/shubham05116/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
