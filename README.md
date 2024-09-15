@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham05116/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham05116/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
