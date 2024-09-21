@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham05116/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shubham05116/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shubham05116/Problem-Solving/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham05116/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/shubham05116/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
