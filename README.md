@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham05116/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shubham05116/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubham05116/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham05116/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/shubham05116/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubham05116/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
