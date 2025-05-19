@@ -2,24 +2,20 @@ var lengthOfLongestSubstring = function(s) {
     let n = s.length;
     if (n === 0) return 0;
 
-    let maxLength = 1;
+    var maxLength = 0;
+    let str = new Set()
+    let left =0;
 
-    for (let i = 0; i < n; i++) {
-        let count = 1;
-        for (let j = i + 1; j < n; j++) {
-            // Check if s[j] has occurred between s[i] to s[j - 1]
-            let found = false;
-            for (let k = i; k < j; k++) {
-                if (s[k] === s[j]) {
-                    found = true;
-                    break;
-                }
-            }
-            if (found) break;
-            count++;
+    for (let right = 0; right < n; right++) {
+        while(str.has(s[right])){
+            str.delete(s[left])
+            left++;
         }
-        maxLength = Math.max(maxLength, count);
+        str.add(s[right]);
+        
+        maxLength = Math.max(maxLength, right-left+1);
     }
 
     return maxLength;
 };
+
