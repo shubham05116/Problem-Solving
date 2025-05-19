@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham05116/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shubham05116/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shubham05116/Problem-Solving/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham05116/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shubham05116/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/shubham05116/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham05116/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham05116/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham05116/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -91,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham05116/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham05116/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubham05116/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
